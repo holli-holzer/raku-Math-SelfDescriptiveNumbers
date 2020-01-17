@@ -32,7 +32,7 @@ say "So is this"
 DESCRIPTION
 ===========
 
-Calculates self-descriptive numbers for a given base, up to 36. This is part of the [https://perlweeklychallenge.org/blog/perl-weekly-challenge-043/](weekly challenge). 
+Calculates self-descriptive numbers for a given base, up to 36. This is part of the [weekly challenge](https://perlweeklychallenge.org/blog/perl-weekly-challenge-043/). 
 
 AUTHOR
 ======
