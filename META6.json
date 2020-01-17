@@ -1,0 +1,20 @@
+{
+  "name" : "Math::SelfDescriptiveNumbers",
+  "description" : "Calculates self-descriptive numbers",
+  "version" : "0.0.1",
+  "perl" : "6.c",
+  "authors" : [
+    "cpan:HOLLI"
+  ],
+  "auth" : "github:holli-holzer",
+  "depends" : [ ],
+  "build-depends" : [ ],
+  "test-depends" : [ ],
+  "provides" : {
+    "Math::SelfDescriptiveNumbers" : "lib/Math/SelfDescriptiveNumbers.pm6"
+  },
+  "resources" : [ ],
+  "license" : "Artistic-2.0",
+  "tags" : [ ],
+  "source-url" : "https://github.com/holli-holzer/raku-Math-SelfDescriptiveNumbers.git"
+}
